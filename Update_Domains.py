@@ -1,7 +1,7 @@
 # -*- coding: cp1252 -*-
 #-------------------------------------------------------------------------------
 # Name:         Calculate_Domains.py
-# Purpose:      Calculates Domains for Importing Data into DataMark VEP Schema
+# Purpose:      Calculates Domains for Importing Data into NG911 Schema
 #               
 # Author:       Chris Robinson
 #
